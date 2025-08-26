@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+.github/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración y logs
+*.env
+*.log
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+*.egg-info/
